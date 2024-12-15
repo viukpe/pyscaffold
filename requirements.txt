@@ -1,0 +1,5 @@
+pylint 
+pytest
+click
+black # formatting library
+pytest-cov # shows how much of code is covered by tests 
